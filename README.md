@@ -1,3 +1,3 @@
-# Desafio de Projeto DIO
+# Projeto DIO
 
 Repositório criado para o Bootcamp
