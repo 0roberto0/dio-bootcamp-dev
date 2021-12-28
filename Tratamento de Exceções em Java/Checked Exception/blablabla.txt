@@ -1,0 +1,2 @@
+teste visualizar arquivo no console, 
+foi feito com sucesso!
